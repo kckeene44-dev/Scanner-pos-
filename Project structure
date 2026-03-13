@@ -1,0 +1,8 @@
+scanner-pos/
+│
+├── index.html
+├── app.js
+├── manifest.json
+├── service-worker.js
+├── style.css
+└── icon.png
